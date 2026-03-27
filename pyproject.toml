@@ -13,4 +13,5 @@ dependencies = [
     "datasets",
     "tiktoken",
     "sentencepiece",
+    "mlx>=0.31.1",
 ]
